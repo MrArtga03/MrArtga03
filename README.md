@@ -6,7 +6,7 @@
   <a href="https://vk.com/mrgalusik">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk"/>
   </a>
-  <a href="t.me/MrGalus">
+  <a href="https://t.me/MrGalus">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
   <div>
