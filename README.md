@@ -1,6 +1,17 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohs4AzKUTj7HOaE2Q/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JPsyY8SZ04BqHv3Rol/giphy.gif" width="300"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=MrArtga03&style=flat-square&color=green" alt=""/>
+  </div>
 </div>
 
 <!--
