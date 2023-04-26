@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
+  <a href="https://vk.com/mrgalusik">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk"/>
   </a>
   <a href="your-twitter-URL">
